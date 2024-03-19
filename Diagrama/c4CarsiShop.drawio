@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T19:51:03.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9RYUKY5Oku54tPS3kX7B" version="23.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-19T19:58:59.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YKmN2Nh2RRz1r9Y97tVe" version="23.1.5" type="github" pages="9">
   <diagram name="contexto con riesgos" id="s0oZLX-IIIlYU14E0wJ8">
     <mxGraphModel dx="3000" dy="2265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -858,7 +858,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="front-back con riesgos" id="oJF-how1PaeKhxpJt7my">
-    <mxGraphModel dx="1760" dy="2021" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="1737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O73Up7t8_nkjWk__FyQ0-0" />
         <mxCell id="O73Up7t8_nkjWk__FyQ0-1" parent="O73Up7t8_nkjWk__FyQ0-0" />
@@ -1028,7 +1028,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Envía imagenes para ser almacenadas " label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="O73Up7t8_nkjWk__FyQ0-30">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="O73Up7t8_nkjWk__FyQ0-1" source="O73Up7t8_nkjWk__FyQ0-29" target="O73Up7t8_nkjWk__FyQ0-3">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#FF0000;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="O73Up7t8_nkjWk__FyQ0-1" source="O73Up7t8_nkjWk__FyQ0-29" target="O73Up7t8_nkjWk__FyQ0-3">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="2400" y="-840" as="sourcePoint" />
               <mxPoint x="2560" y="-840" as="targetPoint" />
@@ -1054,7 +1054,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Envía mensaje por medio del servicio" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="O73Up7t8_nkjWk__FyQ0-32">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O73Up7t8_nkjWk__FyQ0-1" source="O73Up7t8_nkjWk__FyQ0-9" target="O73Up7t8_nkjWk__FyQ0-2">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#FF0000;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O73Up7t8_nkjWk__FyQ0-1" source="O73Up7t8_nkjWk__FyQ0-9" target="O73Up7t8_nkjWk__FyQ0-2">
             <mxGeometry x="0.4348" width="240" relative="1" as="geometry">
               <mxPoint x="2020" y="-730" as="sourcePoint" />
               <mxPoint x="2260" y="-730" as="targetPoint" />
@@ -1068,7 +1068,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Envía mensaje por medio del servicio" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="O73Up7t8_nkjWk__FyQ0-33">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O73Up7t8_nkjWk__FyQ0-1" source="O73Up7t8_nkjWk__FyQ0-27" target="O73Up7t8_nkjWk__FyQ0-4">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#FF0000;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O73Up7t8_nkjWk__FyQ0-1" source="O73Up7t8_nkjWk__FyQ0-27" target="O73Up7t8_nkjWk__FyQ0-4">
             <mxGeometry x="-0.4217" width="240" relative="1" as="geometry">
               <mxPoint x="2230" y="-160" as="sourcePoint" />
               <mxPoint x="2470" y="-160" as="targetPoint" />
@@ -1305,7 +1305,16 @@
           <mxGeometry x="1368" y="-964" width="298" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D2arnUMrjysnZHue19N9-1" value="&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Para todas las relaciones entre componentes back y la base de datos se consideran como principales riesgos:&amp;nbsp;&lt;br&gt;Principio de minimo privilegio, inyección de código e inserción de datos no válidos&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O73Up7t8_nkjWk__FyQ0-1">
-          <mxGeometry x="3033" y="-451" width="257" height="30" as="geometry" />
+          <mxGeometry x="3017" y="-462" width="257" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2arnUMrjysnZHue19N9-2" value="&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Se consideran riesgos como el manejo de protocolo incorrecto, envío de información no necesaria e intercepción de mensajes&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O73Up7t8_nkjWk__FyQ0-1">
+          <mxGeometry x="2101" y="-892" width="257" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2arnUMrjysnZHue19N9-3" value="&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Se consideran riesgos como el manejo de protocolo incorreccto, envío de información no necesaria e intercepción de mensajes&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O73Up7t8_nkjWk__FyQ0-1">
+          <mxGeometry x="2546" y="-898" width="257" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2arnUMrjysnZHue19N9-4" value="&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Los riesgos considerados son el principio de minimo privilegio y autenticación&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O73Up7t8_nkjWk__FyQ0-1">
+          <mxGeometry x="3030" y="-30" width="153" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
