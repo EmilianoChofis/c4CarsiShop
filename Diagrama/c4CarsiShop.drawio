@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T22:20:08.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="t72Umm4eepxuwbFn_9ES" version="24.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-31T22:48:51.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="m_yqF5h6obOsBilGufeT" version="24.2.1" type="github" pages="10">
   <diagram name="contexto con riesgos" id="s0oZLX-IIIlYU14E0wJ8">
-    <mxGraphModel dx="2883" dy="2071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3508" dy="2332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RDKnxXknTo0jjG1TENZ2-0" />
         <mxCell id="RDKnxXknTo0jjG1TENZ2-1" parent="RDKnxXknTo0jjG1TENZ2-0" />
@@ -9,9 +9,6 @@
             <mxGeometry x="24" y="-41" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="RDKnxXknTo0jjG1TENZ2-1">
-          <mxGeometry x="200" y="-61" width="290" height="63" as="geometry" />
-        </mxCell>
         <object placeholders="1" c4Name="Vendedor" c4Type="Person" c4Description="Usuario que pone en venta productos" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RDKnxXknTo0jjG1TENZ2-2">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
             <mxGeometry x="-419" y="-565" width="200" height="180" as="geometry" />
@@ -218,9 +215,6 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="zEoVB5w2EIA2Q99Bs9iK-3" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Se considera un riesgo por la transmisión de datos que requieren de estandarización para su adecuado manejo. Esto puede causar quiebres por mal uso&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
-          <mxGeometry x="213.5" y="-46" width="259" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LoGJGP8CJ3DLtr4m6SCM-4" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
           <mxGeometry x="394" y="-453" width="291" height="66" as="geometry" />
         </mxCell>
@@ -231,13 +225,13 @@
           <mxGeometry x="13.68815331010453" y="14.520000000000001" width="262.609756097561" height="39.6" as="geometry" />
         </mxCell>
         <mxCell id="LoGJGP8CJ3DLtr4m6SCM-5" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
-          <mxGeometry x="234" y="-660" width="279" height="78" as="geometry" />
+          <mxGeometry x="234" y="-660" width="286" height="94" as="geometry" />
         </mxCell>
         <mxCell id="LoGJGP8CJ3DLtr4m6SCM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-5">
-          <mxGeometry width="279" height="78" as="geometry" />
+          <mxGeometry width="286" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-7" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Riesgos a considerar: estandarización, configuración de servicio, exposición de datos sensibles. También considere la exposición de credenciales en código,&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-5">
-          <mxGeometry x="18.00139337979094" y="15.604117647058827" width="251.78048780487802" height="46.8" as="geometry" />
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-7" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Riesgos a considerar: estandarización, configuración de servicio, exposición de no ocrrespondidos. También considere la exposición de credenciales en código, y la configuración del servicio así como sus limitaciones&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-5">
+          <mxGeometry x="18.45304124236634" y="18.804962292609353" width="258.0975609756097" height="56.39999999999999" as="geometry" />
         </mxCell>
         <mxCell id="LoGJGP8CJ3DLtr4m6SCM-8" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
           <mxGeometry x="-266" y="-772" width="253" height="86" as="geometry" />
@@ -247,6 +241,15 @@
         </mxCell>
         <mxCell id="LoGJGP8CJ3DLtr4m6SCM-10" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Para todos los usuarios se consideran riesgos: formato de datos y archivos, tamaño, tipo y cantidad de los mismos, también, autenticación, autorización y validación de identidad.&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-8">
           <mxGeometry x="11.900696864111497" y="18.92" width="228.31707317073167" height="51.6" as="geometry" />
+        </mxCell>
+        <mxCell id="4RLMOeTqtbZnumNi8xX0-0" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
+          <mxGeometry x="202" y="-72" width="279" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4RLMOeTqtbZnumNi8xX0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="4RLMOeTqtbZnumNi8xX0-0">
+          <mxGeometry width="279" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4RLMOeTqtbZnumNi8xX0-2" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Riesgos a considerar: estandarización, configuración de servicio, exposición de datos no correspondidos. También considere la exposición de credenciales en código,y configuración de servicio.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4RLMOeTqtbZnumNi8xX0-0">
+          <mxGeometry x="18.00139337979094" y="15.604117647058827" width="251.78048780487802" height="46.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -588,7 +591,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="actores-front con riesgos" id="cHEucCalpqMdx0XDb79O">
-    <mxGraphModel dx="1703" dy="1577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="1653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZW__W2vPsmX19ReXtEk6-0" />
         <mxCell id="ZW__W2vPsmX19ReXtEk6-1" parent="ZW__W2vPsmX19ReXtEk6-0" />
