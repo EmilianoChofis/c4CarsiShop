@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T23:50:30.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b8wQj5T6RdBa3ANJavkk" version="24.0.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-31T21:24:43.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="t6OoYK3VX9HZgJl5EVbX" version="24.2.1" type="github" pages="10">
   <diagram name="contexto con riesgos" id="s0oZLX-IIIlYU14E0wJ8">
-    <mxGraphModel dx="1922" dy="1866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3809" dy="2458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RDKnxXknTo0jjG1TENZ2-0" />
         <mxCell id="RDKnxXknTo0jjG1TENZ2-1" parent="RDKnxXknTo0jjG1TENZ2-0" />
+        <object placeholders="1" c4Name="SMS " c4Type="Software System" c4Description="Proveedor de servicios de envío de mensajes por SMS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RDKnxXknTo0jjG1TENZ2-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
+            <mxGeometry x="24" y="-41" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="RDKnxXknTo0jjG1TENZ2-1">
+          <mxGeometry x="200" y="-61" width="290" height="63" as="geometry" />
+        </mxCell>
         <object placeholders="1" c4Name="Vendedor" c4Type="Person" c4Description="Usuario que pone en venta productos" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RDKnxXknTo0jjG1TENZ2-2">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
             <mxGeometry x="-419" y="-565" width="200" height="180" as="geometry" />
@@ -44,14 +52,9 @@
             <mxGeometry x="550" y="-397" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="SMS " c4Type="Software System" c4Description="Proveedor de servicios de envío de mensajes por SMS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RDKnxXknTo0jjG1TENZ2-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
-            <mxGeometry x="24" y="-41" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Type="Relationship" c4Description="Envía mensajes por medio de" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="RDKnxXknTo0jjG1TENZ2-11">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#FF0000;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="RDKnxXknTo0jjG1TENZ2-1" source="RDKnxXknTo0jjG1TENZ2-7" target="RDKnxXknTo0jjG1TENZ2-10" edge="1">
-            <mxGeometry x="-0.2791" y="-56" width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.2712" width="240" relative="1" as="geometry">
               <mxPoint x="-9" y="-470" as="sourcePoint" />
               <mxPoint x="231" y="-470" as="targetPoint" />
               <mxPoint as="offset" />
@@ -215,17 +218,35 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="zEoVB5w2EIA2Q99Bs9iK-1" value="&lt;i&gt;&lt;font color=&quot;#808080&quot;&gt;Se considera un riesgo por la transmisión de datos sensibles: correo, detalle de compra, enlaces, que pueden ser interceptados o corrompidos&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
-          <mxGeometry x="94" y="-580" width="259" height="30" as="geometry" />
+        <mxCell id="zEoVB5w2EIA2Q99Bs9iK-3" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Se considera un riesgo por la transmisión de datos que requieren de estandarización para su adecuado manejo. Esto puede causar quiebres por mal uso&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
+          <mxGeometry x="213.5" y="-46" width="259" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zEoVB5w2EIA2Q99Bs9iK-2" value="&lt;i&gt;&lt;font color=&quot;#808080&quot;&gt;Se considera un riesgo por la transmisión y recepción de información la cual incluyen imagenes de identificación&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
-          <mxGeometry x="277" y="-295" width="259" height="30" as="geometry" />
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-4" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
+          <mxGeometry x="741" y="-404" width="291" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="zEoVB5w2EIA2Q99Bs9iK-3" value="&lt;i&gt;&lt;font color=&quot;#808080&quot;&gt;Se considera un riesgo por la transmisión de datos sensibles: Número de telefono y códigos de autenticación&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
-          <mxGeometry x="155" y="-112" width="259" height="30" as="geometry" />
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-4">
+          <mxGeometry width="291.00000000000006" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="e0rcRCWI-MnSKfV5Z3wf-0" value="&lt;i&gt;&lt;font color=&quot;#808080&quot;&gt;Para todos los usuarios se contemplan los riesgos de introducir datos (incluidos archivos) en un formato incorrecto, autenticación y autorización.&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RDKnxXknTo0jjG1TENZ2-1" vertex="1">
-          <mxGeometry x="-216" y="-672" width="259" height="30" as="geometry" />
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-3" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Se considera un riesgo por la transmisión y recepción de imagenes las cuales deben ser controladas en tamaño, trafico, cantidad para evitar quiebres por errores&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-4">
+          <mxGeometry x="13.68815331010453" y="14.520000000000001" width="262.609756097561" height="39.6" as="geometry" />
+        </mxCell>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-5" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
+          <mxGeometry x="316" y="-791" width="300" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-5">
+          <mxGeometry width="300" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-7" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Se considera un riesgo por la transmisión de datos que requieren de estandarización, esta transmisión también debe ser cuidada pues mala configuración conlleva a mal funcionamiento y posible quiebre de servicio&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-5">
+          <mxGeometry x="14.11149825783972" y="18.700000000000003" width="270.73170731707313" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-8" value="" style="group" vertex="1" connectable="0" parent="RDKnxXknTo0jjG1TENZ2-1">
+          <mxGeometry x="-197" y="-728" width="249" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-8">
+          <mxGeometry width="249" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LoGJGP8CJ3DLtr4m6SCM-10" value="&lt;i&gt;&lt;font color=&quot;#ffffff&quot;&gt;Para todos los usuarios se contemplan los riesgos al introducir datos (incluidos archivos) en un formato incorrecto, autenticación y autorización.&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LoGJGP8CJ3DLtr4m6SCM-8">
+          <mxGeometry x="11.712543554006968" y="14.520000000000001" width="224.7073170731707" height="39.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2793,7 +2814,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q1yMLBr-mEUtC1_Ax6pB" name="comp, boceto">
-    <mxGraphModel dx="2057" dy="1809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2154" dy="1766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
